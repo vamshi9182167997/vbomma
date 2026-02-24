@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "mt first upload",
+    "thumbnail": "thumbnails/bahu.jpeg",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/1.mp4"
+  },
+  {
+    "id": 2,
+    "title": "Naa Peru Surya, Naa Illu India",
+    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Naa-Peru-Surya-Naa-Illu-India-Telugu-2018-20180422-500x500.jpg",
+    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Naa+Peru+Surya%2CNaa+Illu+India.mkv"
+  }
+]
