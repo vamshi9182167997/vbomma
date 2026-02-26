@@ -10,5 +10,17 @@
     "title": "Naa Peru Surya, Naa Illu India",
     "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Naa-Peru-Surya-Naa-Illu-India-Telugu-2018-20180422-500x500.jpg",
     "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Naa+Peru+Surya%2CNaa+Illu+India.mkv"
-  }
+  },
+  {
+  "id": 3,
+  "title": "Kushi",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Screenshot+2026-02-24+111530.png",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/2.mp4"
+},
+{
+  "id": 4,
+  "title": "Kushi",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Screenshot+2026-02-24+111530.png",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/2.mp4"
+}
 ]
