@@ -1,26 +1,463 @@
 [
   {
-    "id": 1,
-    "title": "mt first upload",
-    "thumbnail": "thumbnails/bahu.jpeg",
-    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/1.mp4"
-  },
-  {
-    "id": 2,
-    "title": "Naa Peru Surya, Naa Illu India",
-    "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Naa-Peru-Surya-Naa-Illu-India-Telugu-2018-20180422-500x500.jpg",
-    "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Naa+Peru+Surya%2CNaa+Illu+India.mkv"
-  },
-  {
+  "id": 1,
+  "title": "Eeswar",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Eeswar-1.jpg",
+  "video": "",
+  "description": "A young man protects a woman from her abusive family and criminals.",
+  "director": "Jayanth C. Paranjee",
+  "year": "2002",
+  "genre": "Action, Drama"
+},
+{
+  "id": 2,
+  "title": "Raghavendra",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/ragavendra-2.jpg",
+  "video": "",
+  "description": "A man transforms his life after becoming a devotee of Lord Raghavendra.",
+  "director": "Suresh Krishna",
+  "year": "2003",
+  "genre": "Drama"
+},
+{
   "id": 3,
-  "title": "Kushi",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Screenshot+2026-02-24+111530.png",
-  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/2.mp4"
+  "title": "Varsham",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Varsham-3.jpg",
+  "video": "",
+  "description": "A man fights against a powerful villain to protect his love.",
+  "director": "Sobhan",
+  "year": "2004",
+  "genre": "Romance, Action"
 },
 {
   "id": 4,
-  "title": "Kushi",
-  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Screenshot+2026-02-24+111530.png",
-  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/2.mp4"
+  "title": "Adavi Ramudu",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/adavi_ramudu-4.jpg",
+  "video": "",
+  "description": "A forest guide protects a girl from dangerous criminals.",
+  "director": "B.Gopal",
+  "year": "2004",
+  "genre": "Action"
+},
+{
+  "id": 5,
+  "title": "Chakram",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Chakram-5.jpg",
+  "video": "",
+  "description": "A man hides a tragic secret while trying to spread happiness.",
+  "director": "Krishna Vamsi",
+  "year": "2005",
+  "genre": "Drama"
+},
+{
+  "id": 6,
+  "title": "Chatrapathi",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Chathrapathi-6.jpg",
+  "video": "",
+  "description": "A man rises against oppression to protect refugees.",
+  "director": "S. S. Rajamouli",
+  "year": "2005",
+  "genre": "Action, Drama"
+},
+{
+  "id": 7,
+  "title": "Pournami",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Pournami-7.jpg",
+  "video": "",
+  "description": "A dancer tries to solve the mystery of his missing sister.",
+  "director": "Prabhu Deva",
+  "year": "2006",
+  "genre": "Drama"
+},
+{
+  "id": 8,
+  "title": "Yogi",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Yogi-8.jpg",
+  "video": "",
+  "description": "A mother searches for her son who becomes a gangster.",
+  "director": "V. V. Vinayak",
+  "year": "2007",
+  "genre": "Action, Drama"
+},
+{
+  "id": 9,
+  "title": "Munna",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Munna-9.jpg",
+  "video": "",
+  "description": "A student fights against a powerful criminal gang.",
+  "director": "Vamsi Paidipally",
+  "year": "2007",
+  "genre": "Action"
+},
+{
+  "id": 10,
+  "title": "Bujjigadu",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Bujjigadu-10.jpeg",
+  "video": "",
+  "description": "A carefree man returns to meet his childhood love.",
+  "director": "Puri Jagannadh",
+  "year": "2008",
+  "genre": "Action, Comedy"
+},
+{
+  "id": 11,
+  "title": "Billa",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Billa-11.jpg",
+  "video": "",
+  "description": "A thief is forced to impersonate an international criminal.",
+  "director": "Meher Ramesh",
+  "year": "2009",
+  "genre": ", Thriller"
+},
+{
+  "id": 12,
+  "title": "Ek Niranjan",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Ek_niranjan-12.jpg",
+  "video": "",
+  "description": "A bounty hunter searches for his long-lost parents.",
+  "director": "Puri Jagannadh",
+  "year": "2009",
+  "genre": "Action"
+},
+{
+  "id": 13,
+  "title": "Darling",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Darling-13.jpg",
+  "video": "",
+  "description": "A young man pretends to love a girl to help his friend.",
+  "director": "A. Karunakaran",
+  "year": "2010",
+  "genre": "Romance, Comedy"
+},
+{
+  "id": 14,
+  "title": "Mr.Perfect",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/MR_Perfect-14.jpeg",
+  "video": "",
+  "description": "A man learns the value of relationships and compromise.",
+  "director": "Dasaradh",
+  "year": "2011",
+  "genre": "Romance, Drama"
+},
+{
+  "id": 15,
+  "title": "Rebel",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Rebel-15.jpg",
+  "video": "",
+  "description": "A man seeks revenge against enemies who destroyed his family.",
+  "director": "Raghava Lawrence",
+  "year": "2012",
+  "genre": "Action"
+},
+{
+  "id": 16,
+  "title": "Mirchi",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Mirchi-16.jpg",
+  "video": "",
+  "description": "A man returns to India and gets involved in a violent family feud.",
+  "director": "Koratala Siva",
+  "year": "2013",
+  "genre": "Action, Drama"
+},
+{
+  "id": 17,
+  "title": "Baahubali: The Beginning",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubaali-17.jpg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Baahubali_1.mp4",
+  "description": "A young man learns about his royal heritage and destiny.",
+  "director": "S. S. Rajamouli",
+  "year": "2015",
+  "genre": "Action, Fantasy"
+},
+{
+  "id": 18,
+  "title": "Baahubali: The Conclusion",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Baahubali-18.jpg",
+  "video": "",
+  "description": "The story of Mahishmati kingdom continues with epic battles.",
+  "director": "S. S. Rajamouli",
+  "year": "2017",
+  "genre": "Action, Fantasy"
+},
+{
+  "id": 19,
+  "title": "Saaho",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Saaho-19.jpg",
+  "video": "",
+  "description": "An undercover officer gets involved in a massive robbery.",
+  "director": "Sujeeth",
+  "year": "2019",
+  "genre": "Action, Thriller"
+},
+{
+  "id": 20,
+  "title": "Radhe Shyam",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Radhe-Shyam-20.jpg",
+  "video": "",
+  "description": "A palmist who can see the future falls in love.",
+  "director": "Radha Krishna Kumar",
+  "year": "2022",
+  "genre": "Romance, Drama"
+},
+{
+  "id": 21,
+  "title": "Salaar: Part 1 – Ceasefire",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/Salaar-21.jpeg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Salaar_part_1.mp4",
+  "description": "Two friends become enemies in a violent kingdom.",
+  "director": "Prashanth Neel",
+  "year": "2023",
+  "genre": "Action, Thriller"
+},
+{
+  "id": 22,
+  "title": "Raja Saab",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Prabhas/raja_saab-22.jpg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Prabhas/Raja_saab.mp4",
+  "description": "The film is written and directed by Maruthi, known for his work in the horror-comedy genre. It is his first collaboration with Prabhas.",
+  "director": "Maruthi Dasari",
+  "year": "2026",
+  "genre": "Horror-comedy, Romance, Fantasy"
+},
+
+
+
+
+
+{
+"id": 23,
+"title": "Gangotri",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Gangothri-1.jpeg",
+"video": "",
+"description": "A young man falls in love with a girl from a powerful family and fights against the odds to win her love.",
+"director": "K. Raghavendra Rao",
+"year": "2003",
+"genre": "Romance, Drama"
+},
+{
+"id": 24,
+"title": "Arya",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Arya_2-7.jpeg",
+"video": "",
+"description": "A free-spirited man falls in love with a girl who loves someone else.",
+"director": "Sukumar",
+"year": "2004",
+"genre": "Romance, Action"
+},
+{
+"id": 25,
+"title": "Bunny",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Bunny-3.jpg",
+"video": "",
+"description": "A carefree youngster clashes with a powerful businessman while protecting the girl he loves.",
+"director": "V. V. Vinayak",
+"year": "2005",
+"genre": "Action"
+},
+{
+"id": 26,
+"title": "Happy",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Happy-4.jpg",
+"video": "",
+"description": "A pizza delivery boy falls in love with a rich girl whose family opposes their relationship.",
+"director": "A. Karunakaran",
+"year": "2006",
+"genre": "Romance, Comedy"
+},
+{
+"id": 27,
+"title": "Desamuduru",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Desamuduru-5.jpg",
+"video": "",
+"description": "A journalist falls in love with a spiritual woman while battling a dangerous criminal gang.",
+"director": "Puri Jagannadh",
+"year": "2007",
+"genre": "Action"
+},
+{
+"id": 28,
+"title": "Parugu",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Parugu-6.jpg",
+"video": "",
+"description": "A carefree youth learns about love and responsibility after meeting a strict village leader.",
+"director": "Bhaskar",
+"year": "2008",
+"genre": "Romance, Drama"
+},
+{
+"id": 29,
+"title": "Arya 2",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Arya_2-7.jpeg",
+"video": "",
+"description": "A man with obsessive love competes with his best friend for the same girl.",
+"director": "Sukumar",
+"year": "2009",
+"genre": "Romance, Action"
+},
+{
+"id": 30,
+"title": "Varudu",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Varudu-8.jpeg",
+"video": "",
+"description": "A traditional arranged marriage turns dangerous when a mysterious villain kidnaps the bride.",
+"director": "A traditional arranged marriage turns dangerous when a mysterious villain kidnaps the bride",
+"year": "2010",
+"genre": "Action"
+},
+{
+"id": 31,
+"title": "Vedam",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Vedam-9.jpeg",
+"video": "",
+"description": "Five different people's lives intersect in a story about humanity and sacrifice.",
+"director": "Krish Jagarlamudi",
+"year": "2010",
+"genre": "Drama"
+},
+{
+"id": 32,
+"title": "Badrinath",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Badrinath-10.jpeg",
+"video": "",
+"description": "A temple warrior protects a girl from a powerful villain.",
+"director": "V. V. Vinayak",
+"year": "2011",
+"genre": "Action, Fantasy"
+},
+{
+"id": 33,
+"title": "Julayi",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Julayi-11.jpeg",
+"video": "",
+"description": "A clever youngster gets involved in a cat-and-mouse game with a dangerous criminal.",
+"director": "Trivikram Srinivas",
+"year": "2012",
+"genre": "Action, Comedy"
+},
+{
+"id": 34,
+"title": "Iddarammayilatho",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/iddarammayilatho-12.jpeg",
+"video": "",
+"description": "A musician's life changes when he meets two mysterious women in Spain.",
+"director": "Puri Jagannadh",
+"year": "2013",
+"genre": "Action, Romance"
+},
+{
+"id": 35,
+"title": "Race Gurram",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Race_Gurram-13.jpeg",
+"video": "",
+"description": "Two brothers with different personalities unite to defeat a corrupt politician.",
+"director": "Surender Reddy",
+"year": "2014",
+"genre": "Action, Comedy"
+},
+{
+"id": 36,
+"title": "S/O Satyamurthy",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Son+of+sathyamurthi-14.jpeg",
+"video": "",
+"description": "A young man struggles to uphold his father's values after losing his wealth.",
+"director": "Trivikram Srinivas",
+"year": "2015",
+"genre": "Drama, Family"
+},
+{
+"id": 37,
+"title": "Rudhramadevi",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Rudhramadevi-15.jpg",
+"video": "",
+"description": "A historical epic about the warrior queen Rudhramadevi and her battles.",
+"director": "Gunasekhar",
+"year": "2015",
+"genre": "Historical"
+},
+{
+"id": 38,
+"title": "Sarrainodu",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Sarrainodu-16.jpg",
+"video": "",
+"description": "A fearless man fights against a corrupt politician and criminal network.",
+"director": "Boyapati Srinu",
+"year": "2016",
+"genre": "Action"
+},
+{
+"id": 39,
+"title": "DJ: Duvvada Jagannadham",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/DJ-17.jpeg",
+"video": "",
+"description": "A Brahmin cook secretly works as a vigilante to fight corruption.",
+"director": "Harish Shankar",
+"year": "2017",
+"genre": "Action, Comedy"
+},
+{
+"id": 40,
+"title": "Naa Peru Surya, Naa Illu India",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Naa-Peru-Surya-Naa-Illu-India-18.jpg",
+"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/naa-peru-surya-fixed.mp4",
+"description": "An army officer with anger issues must prove his discipline and patriotism.",
+"director": "Vakkantham Vamsi",
+"year": "2018",
+"genre": "Action"
+},
+{
+"id": 41,
+"title": "Ala Vaikunthapurramuloo",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Ala_Vaikunthapurramuloo-19.jpeg",
+"video": "",
+"description": "A man discovers he was switched at birth and tries to reclaim his rightful place.",
+"director": "Trivikram Srinivas",
+"year": "2020",
+"genre": "Family, Drama"
+},
+{
+"id": 42,
+"title": "Pushpa: The Rise",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Pushpa-The-Rise-20.jpg",
+"video": "",
+"description": "A daily wage laborer rises to power in the red sandalwood smuggling syndicate.",
+"director": "Sukumar",
+"year": "2021",
+"genre": "Action, Crime"
+},
+{
+"id": 43,
+"title": "Pushpa 2: The Rule",
+"thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Pushpa_The_Rule-21.jpeg",
+"video": "",
+"description": "Pushpa continues his rise while facing powerful enemies and political forces.",
+"director": "Sukumar",
+"year": "2024",
+"genre": "Action, Crime"
 }
+
+
+
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
