@@ -1,5 +1,15 @@
 [
   {
+  "id": 47,
+  "title": "Dhurandhar: The Revenge",
+  "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Dubbed/Dhurandhar.jpeg",
+  "video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/Dubbed/Dhurandhar-+The+Revenge.mp4",
+  "description": "An undercover agent rises in Pakistan seeking revenge for his family's murder, navigating a dangerous world of espionage and survival.",
+  "director": "Aditya Dhar",
+  "year": "2026",
+  "genre": "Action, Spy Thriller, Crime"
+},
+  {
   "id": 46,
   "title": "Youth",
   "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Other/Youth.png",
@@ -433,7 +443,7 @@
 "id": 41,
 "title": "Ala Vaikunthapurramuloo",
 "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Ala_Vaikunthapurramuloo-19.jpeg",
-"video": "",
+"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/AA/Ala_Vaikunthapurramuloo.mp4",
 "description": "A man discovers he was switched at birth and tries to reclaim his rightful place.",
 "director": "Trivikram Srinivas",
 "year": "2020",
@@ -443,7 +453,7 @@
 "id": 42,
 "title": "Pushpa: The Rise",
 "thumbnail": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/thumbnails/Allu+Arjun/Pushpa-The-Rise-20.jpg",
-"video": "",
+"video": "https://my-ott-movie-storage-123.s3.ap-south-1.amazonaws.com/movies/AA/Pushpa_1.mp4",
 "description": "A daily wage laborer rises to power in the red sandalwood smuggling syndicate.",
 "director": "Sukumar",
 "year": "2021",
@@ -462,7 +472,6 @@
 
 
 ]
-
 
 
 
